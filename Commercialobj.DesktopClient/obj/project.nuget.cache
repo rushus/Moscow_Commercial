@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LT4tFeAHuoZ+pfTjb0xY3YIvIG/4gil9rbUh6aWuLu4QuiTVr8XgjYUJlccpFrumbB5m0MaOCiKAXeRjqCWBhg==",
+  "success": true,
+  "projectFilePath": "C:\\Learn and Design\\University\\Третий курс\\Второй семестр\\ООПСЗИ\\Лабораторные\\Test\\Commercialobj.DesktopClient\\Commercialobj.DesktopClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rushu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\rushu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\rushu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

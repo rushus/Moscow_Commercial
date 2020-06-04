@@ -1,0 +1,9 @@
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\Bridges.GeneralLogic.deps.json
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\Bridges.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\Bridges.GeneralLogic.pdb
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\Bridges.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\Bridges.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\Bridges.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\Bridges.GeneralLogic.AssemblyInfo.cs
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\Bridges.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\Bridges.GeneralLogic.pdb
