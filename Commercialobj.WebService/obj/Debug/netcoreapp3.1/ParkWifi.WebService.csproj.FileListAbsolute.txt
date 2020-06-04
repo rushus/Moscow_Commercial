@@ -1,0 +1,310 @@
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.exe
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.deps.json
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.json
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.dev.json
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csprojAssemblyReference.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CoreCompileInputs.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfoInputs.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfo.cs
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.RazorTargetAssemblyInfo.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CopyComplete
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.Manifest.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.xml
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.genruntimeconfig.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.exe
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.deps.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.dev.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfo.cs
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.RazorTargetAssemblyInfo.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CopyComplete
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.Manifest.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.xml
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.genruntimeconfig.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.exe
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.deps.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.dev.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfo.cs
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.RazorTargetAssemblyInfo.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CopyComplete
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.Manifest.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.xml
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.genruntimeconfig.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.exe
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.deps.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.dev.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.MvcApplicationPartsAssemblyInfo.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfo.cs
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.RazorTargetAssemblyInfo.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CopyComplete
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.Manifest.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.xml
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.genruntimeconfig.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\appsettings.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.exe
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.deps.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.runtimeconfig.dev.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csprojAssemblyReference.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CoreCompileInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.MvcApplicationPartsAssemblyInfo.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfoInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.AssemblyInfo.cs
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.RazorTargetAssemblyInfo.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.csproj.CopyComplete
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.Manifest.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\staticwebassets\ParkWifi.WebService.StaticWebAssets.xml
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.WebService\obj\Debug\netcoreapp3.1\ParkWifi.WebService.genruntimeconfig.cache

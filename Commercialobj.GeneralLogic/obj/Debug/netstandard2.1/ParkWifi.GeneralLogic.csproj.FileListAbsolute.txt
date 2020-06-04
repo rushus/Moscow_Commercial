@@ -1,0 +1,54 @@
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.deps.json
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfo.cs
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.deps.json
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csprojAssemblyReference.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfoInputs.cache
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfo.cs
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.deps.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfo.cs
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.deps.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfo.cs
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.deps.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfo.cs
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.deps.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\bin\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csprojAssemblyReference.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.csproj.CoreCompileInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfoInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.AssemblyInfo.cs
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.GeneralLogic\obj\Debug\netstandard2.1\ParkWifi.GeneralLogic.pdb

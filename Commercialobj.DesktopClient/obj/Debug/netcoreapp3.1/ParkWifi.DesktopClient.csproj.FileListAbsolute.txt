@@ -1,0 +1,125 @@
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.exe
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.deps.json
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.json
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.dev.json
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csprojAssemblyReference.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.lref
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.g.resources
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CoreCompileInputs.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfoInputs.cache
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfo.cs
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CopyComplete
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\Users\mos_k\Downloads\полиночка жена андрея\ObjectOrientedProgram-master\bridges-practice3\Bridges.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.genruntimeconfig.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.lref
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.exe
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.deps.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.dev.json
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.g.resources
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfo.cs
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CopyComplete
+C:\полиночка_жена_андрея\ObjectOrientedProgram-master\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.genruntimeconfig.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.exe
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.deps.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.dev.json
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.lref
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.g.resources
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfo.cs
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CopyComplete
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\полиночка_жена_андрея\New folder (2)\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.genruntimeconfig.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.exe
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.deps.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.dev.json
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csprojAssemblyReference.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.lref
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.g.resources
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CoreCompileInputs.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfoInputs.cache
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfo.cs
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CopyComplete
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+C:\полиночка_жена_андрея\РАБОЧИЙ\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.genruntimeconfig.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.exe
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.deps.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.runtimeconfig.dev.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\bin\Debug\netcoreapp3.1\ParkWifi.GeneralLogic.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csprojAssemblyReference.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.g.cs
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\App.g.cs
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient_MarkupCompile.lref
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\InfrastructureServices\Views\MainWindow.baml
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.g.resources
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CoreCompileInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfoInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.AssemblyInfo.cs
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.csproj.CopyComplete
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\bridges-practice3\ParkWifi.DesktopClient\obj\Debug\netcoreapp3.1\ParkWifi.DesktopClient.genruntimeconfig.cache
