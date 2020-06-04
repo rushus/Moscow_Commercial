@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj": {}
+  },
+  "projects": {
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
+        "projectName": "ParkWifi.DesktopClient",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.DesktopClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
+                "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+        "projectName": "ParkWifi.GeneralLogic",
+        "projectPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\всякое\\3_Курс\\2_СЕМ\\ООП\\new\\work\\bridges-practice3\\ParkWifi.GeneralLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
