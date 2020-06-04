@@ -1,0 +1,9 @@
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\bin\Debug\netstandard2.1\RPTSobj.GeneralLogic.deps.json
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\bin\Debug\netstandard2.1\RPTSobj.GeneralLogic.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\bin\Debug\netstandard2.1\RPTSobj.GeneralLogic.pdb
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\RPTSobj.GeneralLogic.csprojAssemblyReference.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\RPTSobj.GeneralLogic.csproj.CoreCompileInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\RPTSobj.GeneralLogic.AssemblyInfoInputs.cache
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\RPTSobj.GeneralLogic.AssemblyInfo.cs
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\RPTSobj.GeneralLogic.dll
+D:\всякое\3_Курс\2_СЕМ\ООП\new\work\NoDbNoMigr\RPTSobj.GeneralLogic\obj\Debug\netstandard2.1\RPTSobj.GeneralLogic.pdb
